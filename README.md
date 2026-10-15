@@ -53,3 +53,8 @@ The objective of LumiListen is to demonstrate how interactive web development an
 
 This project also provides an opportunity to practise component-based development, state management, TypeScript, responsive design, interaction design, and user-focused problem-solving.
 
+## Prototype
+
+Figma Design:
+https://series-turn-01318056.figma.site
+
