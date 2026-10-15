@@ -46,15 +46,6 @@ The interface combines expressive typography, music-inspired imagery, clear navi
 
 Upgrade LumiListen from a simulated music player into a fully functional music discovery and streaming platform. Users will be able to listen to real songs by real artists, discover new releases, explore artist profiles, and enjoy playlists tailored to their moods and music preferences. The platform will integrate with a suitable music streaming API or licensed audio provider to support real audio playback, play/pause controls, track skipping, playback progress, and personalised music recommendations.
 
-- **🎧 Real Music Streaming and Playback:** Upgrade LumiListen from a simulated music player into a fully functional music discovery and streaming platform where users can listen to real songs by real artists, rather than just experience simulated playback.
-- **🎤 Artist Profiles and Music Discovery:** Allow users to explore real artists, discover their songs, learn more about their music, and find new releases.
-- **🤖 AI-Powered Recommendations:** Introduce intelligent recommendations based on users' moods, favourite genres, listening habits, and music preferences.
-- **🎼 Personalised Playlists:** Generate playlists tailored to each user's emotions and individual music taste.
-- **❤️ User Accounts and Favourites:** Enable users to create accounts, save favourite songs, and access their personalised playlists.
-- **⏯️ Advanced Music Player:** Support real audio playback, play and pause, track skipping, playback progress, shuffle, and repeat functionality.
-- **📱 Enhanced Accessibility and Responsiveness:** Continue improving accessibility, mobile usability, and the overall user experience.
-
-Real music streaming will be implemented through a suitable music streaming API or licensed audio provider, subject to its available features, permissions, and licensing requirements.
 
 ## 🎯 Project Objective
 
